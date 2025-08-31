@@ -1,4 +1,4 @@
-# TechnoNext Kotlin NDK AuthKey (Assessment Solution)
+#  Kotlin NDK AuthKey (Assessment Solution)
 
 **Task**: Implement API call with `AuthKey` header, where the value is generated from an encryption mechanism implemented in C via Android NDK + JNI.
 
