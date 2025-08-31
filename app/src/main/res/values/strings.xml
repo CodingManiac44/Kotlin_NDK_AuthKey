@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NDK AuthKey Demo</string>
+    <string name="button_call">Call API</string>
+    <string name="hint_base_url">Base URL (default jsonplaceholder)</string>
+</resources>
